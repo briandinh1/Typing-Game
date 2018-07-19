@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class ScoreManager : MonoBehaviour {
 
-    public bool isDead;
     public float scoreAwarded;
     public float currentScore;
     public Text currentScoreUI;
