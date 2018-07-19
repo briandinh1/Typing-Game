@@ -1,4 +1,5 @@
 Typing game inspired by Ztype. Written with C# scripts in Unity
+Executable file demo is provided in Typing game EXE folder.
 
 Player has to type the words on the screen before they reach the bottom. 
 Implemented randomized words generation of short, medium, and long length. Word fall rate is also randomized with a variance of 0.5.
@@ -12,3 +13,4 @@ Free soundfx from https://opengameart.org/content/click and https://opengameart.
 
 
 TODO: attempt to copy how Ztype did the spaceship shooting at words, possible do levels instead of an endless scroller
+sometimes the UI for the scores bugs out, gotta fix
